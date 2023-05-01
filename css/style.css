@@ -99,6 +99,10 @@ img {
     padding: 1rem 1rem 0 0;
 }
 
+.top__logo img {
+    width: 50%;
+}
+
 .top__desktop {
     /* background-color: red; */
     margin-top: 1.5rem;
@@ -182,6 +186,7 @@ img {
 }
 
 .text__bottom img {
+    width: 65%;
     padding-left: .5rem;
     padding-top: .2rem;
 }
