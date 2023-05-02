@@ -489,7 +489,7 @@ img {
 }
 @media (min-width: 1000px) {
     .top__container {
-        height: 50rem;
+        height: 52rem;
         background-color: white;
     }
     .top__logo {
@@ -561,6 +561,32 @@ img {
     .top__btn img {
         top: 2.2rem;
         width: 30%;
+    }
+}
+@media (min-width: 1300px) {
+    .top__desktop {
+        height: 45rem; 
+    }
+    .top__container {
+        height: 60rem;
+        background-color: white;
+    }
+    .desktop__text {
+        height: 38rem;
+    }
+    .text__top--1 {
+        font-size: 4.3rem;
+    }
+    .text__top--2 {
+        font-size: 6.8rem;
+        letter-spacing: .75rem;
+    }
+    .text__top--3 {
+        font-size: 8rem;
+    }
+    .text__top img {
+        top: 6.5rem;
+        width: 100%;
     }
 }
 /* FIN-HEADER */
